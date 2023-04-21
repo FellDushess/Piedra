@@ -1,0 +1,25 @@
+*{
+    border: 3px solid #56229b;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #461883;
+    box-shadow: 0 0 10px #461883;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+body{
+    background-color: #8961a5;
+}
+
+h1{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+img{
+    border: none;
+}
